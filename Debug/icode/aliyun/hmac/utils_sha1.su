@@ -1,0 +1,9 @@
+utils_sha1.c:6:13:utils_sha1_zeroize	24	static
+utils_sha1.c:37:6:utils_sha1_init	16	static
+utils_sha1.c:42:6:utils_sha1_free	16	static
+utils_sha1.c:51:6:utils_sha1_clone	16	static
+utils_sha1.c:60:6:utils_sha1_starts	16	static
+utils_sha1.c:72:6:utils_sha1_process	104	static
+utils_sha1.c:231:6:utils_sha1_update	32	static
+utils_sha1.c:279:6:utils_sha1_finish	40	static
+utils_sha1.c:309:6:utils_sha1	120	static

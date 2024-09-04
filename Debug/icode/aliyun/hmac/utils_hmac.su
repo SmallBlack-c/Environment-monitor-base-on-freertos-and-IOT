@@ -1,0 +1,3 @@
+utils_hmac.c:16:6:utils_hmac_md5	264	static
+utils_hmac.c:68:6:utils_hmac_sha1	272	static
+utils_hmac.c:120:5:base64_decode	32	static

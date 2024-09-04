@@ -1,0 +1,8 @@
+dht11.c:19:6:DHT11_IO_OUT	24	static
+dht11.c:28:6:DHT11_IO_IN	24	static
+dht11.c:36:6:DHT11_RST	8	static
+dht11.c:44:9:Dht11_Check	24	static
+dht11.c:60:9:Dht11_ReadBit	16	static
+dht11.c:75:9:Dht11_ReadByte	16	static
+dht11.c:85:9:DHT11_Init	8	static
+dht11.c:90:9:DHT11_ReadData	24	static

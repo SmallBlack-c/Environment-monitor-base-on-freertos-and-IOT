@@ -1,0 +1,5 @@
+transport.c:39:5:transport_sendPacketBuffer	24	static
+transport.c:48:5:transport_getdata	16	static
+transport.c:56:5:transport_getdatanb	24	static
+transport.c:66:5:transport_open	16	static
+transport.c:71:5:transport_close	16	static

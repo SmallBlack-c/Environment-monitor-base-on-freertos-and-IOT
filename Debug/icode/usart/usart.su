@@ -1,0 +1,2 @@
+usart.c:14:7:HAL_UART_RxCpltCallback	16	static
+usart.c:35:7:usart_printf	228	static

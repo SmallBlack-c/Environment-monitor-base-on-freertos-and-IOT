@@ -1,0 +1,6 @@
+esp8266.c:3:9:esp8266_send_cmd	32	static
+esp8266.c:29:10:esp8266_check_cmd	24	static
+esp8266.c:41:9:esp8266_quit_trans	8	static
+esp8266.c:55:9:esp8266_Connect_IOTServer	8	static
+esp8266.c:150:9:esp8266_Connect_AP	16	static
+esp8266.c:163:9:esp8266_Connect_Server	16	static

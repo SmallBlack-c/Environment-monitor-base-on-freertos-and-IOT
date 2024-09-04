@@ -1,0 +1,2 @@
+adc.c:10:10:ADC_IN_1	8	static
+adc.c:18:10:ADC_IN_2	8	static

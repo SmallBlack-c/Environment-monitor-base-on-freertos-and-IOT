@@ -1,0 +1,5 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+iot.c:16:9:IOT_connect	248	static
+iot.c:65:6:IOT_ping	16	static
+iot.c:74:9:IOT_subscribe	56	static
+iot.c:99:9:IOT_publish	80	static
